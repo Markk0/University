@@ -1,3 +1,3 @@
 # University
 University database 
-Simple example how to do some basic SQL 
+Simple example how to do some  SQL 
